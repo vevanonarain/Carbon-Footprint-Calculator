@@ -1,0 +1,63 @@
+html
+{
+font-family: Verdana;
+background-color:#16ab5e;
+}
+
+.num
+{
+	width: 5ch;
+}
+
+.power
+{
+	width: 7ch;
+	text-align: right;
+}
+
+.fieldSet
+{
+	display:inline-block;
+	border: 2px solid black;
+}
+
+table
+{
+	border: 2px solid black;
+}
+
+th,td
+{
+	border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+select 
+{
+    width: 20ch;
+    padding: 4px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
+
+input
+{
+    border: 1px solid black;
+    border-radius: 4px;
+	padding: 3px;
+}
+
+h1
+{
+	font-size: 250%;
+	text-align: center;
+	margin-bottom: 2ch;
+	font-family: 'Trebuchet MS';
+}
+h6
+{
+	margin-bottom: 0.1px;
+	font-size: 100%;
+	border: 2px solid black;
+	width: fit-content;
+}
